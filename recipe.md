@@ -6,12 +6,13 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- Love and care
+- Bob's dreams
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
-3. ...
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, chips, and vanilla extract
+3. Mix them liquids.
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
